@@ -9,4 +9,4 @@ community_bridge: # Replace with a single Community Bridge project-name e.g., cl
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
-custom: ['Meal on wheels']('https://ams.mealsonwheelsamerica.org/eweb/DynamicPage.aspx?WebCode=globaldonate&site=mowa&CampCode=AnnualCampaign&AplCode=AnnCampPopUp&_ga=2.210042773.1032785.1542206445-872662781.1459455116&action=add') # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+custom: https://ams.mealsonwheelsamerica.org/eweb/DynamicPage.aspx?WebCode=globaldonate&site=mowa&CampCode=AnnualCampaign&AplCode=AnnCampPopUp&_ga=2.210042773.1032785.1542206445-872662781.1459455116&action=add # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
