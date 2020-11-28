@@ -14,16 +14,16 @@ Yes! The programmable lights aren't the same kind you get at Home Depot, Target,
 In addition to the lights you need:
 
 **1. Software to build/design the sequences (the patterns of lights)** 
-This show was built in xLights. It is open source and is one of the top two or three most popular programs used by non-professionals. 
+* This show was built in xLights. It is open source and is one of the top two or three most popular programs used by non-professionals. 
 
 **2. Software to schedule and run the sequences**
-The current setup uses Falcon Player (abbreviated FPP for some reason) running on a raspberry Pi.
+* The current setup uses Falcon Player (abbreviated FPP for some reason) running on a raspberry Pi.
 
 **3. A device that maps the software outputs to the individual lights**
-This is called a controller. The controller for this year's show is an AlphaPix 4
+* This device is called a controller. The controller for this year's show is an AlphaPix 4.
 
 **4. Software to translate the xLights sequences into something the controller can understand**
-FPP and the raspberry Pi handle this, as well.
+* FPP and the raspberry Pi handle this, as well.
 
 ### How long does it take to program a sequence?
 This is my first year so there was a lot for me to learn. It took quite a long time to program just the couple of song you hear in the show. Now that I know how to do it I am a little faster, but I don't think it will ever take less than 4-5 hours to do a 3-4 minute song. 
