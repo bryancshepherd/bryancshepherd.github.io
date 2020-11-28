@@ -8,7 +8,7 @@ Yes, our lights have a webpage! Why? I don't know. But since we're all here, her
 
 ## Equipment
 ### Are these a special type of lights?
-Yes! The programmable lights aren't the same kind you get at Home Depot, Target, etc. They are a special type of light designed for light shows. Each light has separate channels corresponding to different colors that can be controlled independently.
+Yes! Well, kinda. Right now we have about 50% traditional lights and about 50% programmable lights. The programmable lights are probably the reason you're here, so they are the focus. Programmable lights aren't the same kind you get at Home Depot, Target, etc. They are a special type of light called a 'pixel' that is designed specifically for light shows. Each light has separate channels corresponding to different colors that can be controlled independently.
 
 ### What equipment, other than the lights, is required?
 In addition to the lights you need:
