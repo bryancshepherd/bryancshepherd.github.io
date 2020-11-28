@@ -26,7 +26,7 @@ In addition to the lights you need:
 * FPP and the raspberry Pi handle this, as well.
 
 ### How long does it take to program a sequence?
-This is my first year so there was a lot for me to learn. It took quite a long time to program just the couple of song you hear in the show. Now that I know how to do it I am a little faster, but I don't think it will ever take less than 4-5 hours to do a 3-4 minute song. 
+This is my first year so there was a lot for me to learn. It took quite a long time to program just the couple of songs you hear in the show. Now that I know how to do it I am a little faster, but I don't think it will ever take less than 4-5 hours to do a 3-4 minute song. 
 
 ### How long did it take to set everything up?
 I literally started in January of 2020 and worked off and on throughout the year. (I was motivated by guilt since we went out of town last year and didn't put up any lights.) COVID-19 slowed things down a little bit, but there was so much to learn, figure out and build, that it's fair to say it took a good 6 months of time.
