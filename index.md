@@ -12,12 +12,16 @@ Yes! The programmable lights aren't the same kind you get at Home Depot, Target,
 
 ### What equipment, other than the lights, is required?
 In addition to the lights you need:
+
 **1. Software to build/design the sequences (the patterns of lights)** 
 This show was built in xLights. It is open source and is one of the top two or three most popular programs used by non-professionals. 
+
 **2. Software to schedule and run the sequences**
 The current setup uses Falcon Player (abbreviated FPP for some reason) running on a raspberry Pi.
+
 **3. A device that maps the software outputs to the individual lights**
 This is called a controller. The controller for this year's show is an AlphaPix 4
+
 **4. Software to translate the xLights sequences into something the controller can understand**
 FPP and the raspberry Pi handle this, as well.
 
