@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 title: 1618 Lights
 description: Learn about the lights
+logo: true
 show_downloads: false
 github:
   - is_user_page: false
